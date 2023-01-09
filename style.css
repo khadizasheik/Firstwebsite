@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.banner{
+    background-image: url('/Image/banner2.png');
+    padding: 100px 100px;
+    background-size: cover;
+    background-position: center;
+}
+.banner-contant{
+    text-align: end;
+    width: 50%;
+    margin-left: auto;
+}
+.banner-contant h1 {
+    font-size: 40px; 
+    color: black;
+    margin-bottom: 20px;
+
+
+}
+.banner-contant p{
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 40px;
+}
+.banner-contant a{
+    width: 180px;
+    height: 60px;
+    background-color: coral;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-left: auto;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.About{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+
+
+}
+.About-image img{
+    width: 300px;
+}
+.About-contant h1{
+    font-size: 40px;
+    color: chocolate;
+    margin-bottom: 20px;
+
+
+}
+.About-contant p{
+    font-size:30px ;
+    color: black;
+    margin-bottom: 20px;
+}
+.plan{
+    padding: 80px 100px;
+
+}
+.plan-title{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.plan-main-blog{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+.plan-contant img{
+    margin-bottom: 30px;
+     
+}
+.plan-contant h4{
+    font-size: 24px;
+    font-weight: 700px;
+    margin-bottom: 10px;
+}
+.contact-contant a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 60px;
+    background-color: aliceblue;
+    color: coral;
+     text-decoration: none;
+}
+.contact-contant{
+    background-image: url('/Image/watch.png');
+    padding: 50px 40px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.contact{
+    padding: 50px 100px;
+    
+}
+.contact-contant h1{
+    margin-bottom: 10px;
+}
+.footer-area{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 50px 70px;
+
+}
+.footer-contant h1{
+    color: aliceblue;
+    margin-bottom: 20px;
+
+
+}
+.footer-contant p{
+    color: aliceblue;
+    margin-bottom: 10px;
+    font-size: 14px;
+    
+}
+.footer-contant{
+    width: 40%;
+}
+.footer-form{
+    color: aliceblue;
+
+}
+.footer-form h4{
+    font-size: 24px;
+    margin-bottom:20px;
+    
+
+
+}
+.footer-form input{
+    width: 150px;
+    height: 35px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: aliceblue;
+    padding: 5px 20px;
+    display: block;
+
+}
+.footer-form button{
+    margin-top: 20px;
+    background-color: aliceblue;
+    color: coral;
+    width: 150px;
+    height: 50px;
+}
+.footer-social a{
+    margin-bottom: 10px;
+}
